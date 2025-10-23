@@ -9,13 +9,13 @@ This project is an interactive jury deliberation simulator built using Python an
 The primary goal is to simulate an interactive jury deliberation process where a human player interacts with AI-driven jurors. We aim to explore the capabilities of Large Language Models (LLMs) like Google Gemini in modeling nuanced human behavior, biases, and group dynamics within the specific context of a jury trial.
 
 ## 📊 Visualizations
-![Figure1](/img/figure1)
+![Figure1](img/figure1.png)
 * This diagram illustrates the courtroom simulation system flow.
  
-![Figure2](/img/figure2)
+![Figure2](img/figure2.png)
 * Human Player In the Flow
   
-![Figure3](/img/figure3)
+![Figure3](img/figure3.png)
 * Speaking Order System
 
 ## ✨ Features
